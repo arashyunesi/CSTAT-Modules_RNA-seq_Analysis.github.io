@@ -8,4 +8,4 @@ This module contains information for workshop on bulk RNA-seq data preprocessing
 > #### If you have admin previliges on your laptop:
 >> - Windows users, follow [these instructions.](https://share.google/aimode/DVx21nEGjwJJvq82O)
 >> - Mac users, follow [these instructions.](https://share.google/aimode/hY3Am7TFhEVym9ClQ)
->> - Linux users, you know what to do! 🫡
+>> - Linux users, you know what to do!
