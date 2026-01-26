@@ -14,4 +14,8 @@ This module contains information for workshop on bulk RNA-seq data preprocessing
 >
 2. Installing Necessary Packages:
 >
-> 
+> #### To install any package type *install.packages("package_name")* in the console
+>> - Tidyverse package: *install.packages("tidyverse")*
+>> - ggplot package: *install.packages("ggplot2")*
+>> - BiocManager package: *install.packages("BiocManager")* this package allows you to install many Bioinformatics packages.
+>> - DESeq2 package: *BiocManager::install("DESeq2")*
