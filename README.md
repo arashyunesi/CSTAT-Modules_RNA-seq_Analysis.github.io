@@ -13,3 +13,5 @@ This module contains information for workshop on bulk RNA-seq data preprocessing
 > #### Alternatively, you can use R Server from HPCC's [ondemand resources.](https://docs.icer.msu.edu/Open_OnDemand/) If you don't have an HPCC account, [request an account.](https://contact.icer.msu.edu/account)
 >
 2. Installing Necessary Packages:
+>
+> 
