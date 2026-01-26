@@ -19,3 +19,4 @@ This module contains information for workshop on bulk RNA-seq data preprocessing
 >> - ggplot package: *install.packages("ggplot2")*
 >> - BiocManager package: *install.packages("BiocManager")* this package allows you to install many Bioinformatics packages.
 >> - DESeq2 package: *BiocManager::install("DESeq2")*
+>> - 
